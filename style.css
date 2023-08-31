@@ -1,0 +1,27 @@
+/* selectors 
+id 
+class
+tag
+ */
+
+ table, th, td{
+    /* width: 100%; */
+    border: 2px solid black;
+    border-collapse: collapse;
+    color: black;
+    background-color: yellowgreen;
+}
+th{
+    /* border: 2px solid black; */
+    color: black;
+    background-color: grey;
+    text-align: right;
+
+ }
+/* td{
+    border: 2px solid black;
+
+ } */
+ body{
+    background-color: violet;
+ }
